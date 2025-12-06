@@ -40,4 +40,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
           push: true
-          tags: ghcr.io/MariaJoseColas17/calculatortest:latest
+          tags: ghcr.io/mariajose/calculatortest:latest
