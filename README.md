@@ -1,4 +1,4 @@
-#**Calculator Testing**
+# **Calculator Testing**
 
 This project was designed as a simple yet comprehensive demonstration of how modern CI/CD pipelines ensure software quality from code writing to deployment. Using a basic calculator implementation as the main example, the repository shows how automated workflows validate functionality, ensure reliability, and maintain clean development practices.
 
@@ -6,7 +6,7 @@ The testing workflow was built with Python and PyTest, covering the fundamental 
 
 To extend the project to real-world DevOps practices, a Docker image was also created. This image encapsulates the calculator application within a reproducible and isolated environment, demonstrating how applications can be consistently packaged for testing, distribution, or deployment. The CI pipeline automatically creates this Docker image, ensuring that the code works not only in development but also in production-like containerized environments.
 
-##*In short, this project illustrates:*
+## **In short, this project illustrates:**
 
 How automated unit testing ensures code correctness. How GitHub Actions evaluate each commit and pull request before merging them.
 
